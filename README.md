@@ -1,2 +1,12 @@
 # Machine_Learning_CMSC422
 This repository has programming assignments for machine learning course CMSC-422 provided at University of Maryland.
+# Programming Assignment 1
+This programming assignment covers concepts listed below:
+- Decision Tree 
+  - AVA
+  - OAA
+- Gradient Descent algorithm 
+  - Comapring Different Loss Functions:
+    - Logistic Loss
+    - Squared Loss
+    - Hinge Loss
