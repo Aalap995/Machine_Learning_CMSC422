@@ -10,3 +10,4 @@ This programming assignment covers concepts listed below:
     - Logistic Loss
     - Squared Loss
     - Hinge Loss
+-Linear Classifier
