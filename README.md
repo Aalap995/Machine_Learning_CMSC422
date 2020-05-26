@@ -11,3 +11,8 @@ This programming assignment covers concepts listed below:
     - Logistic Loss
     - Squared Loss
     - Hinge Loss
+# Programming Assignment 2
+This programming assignment covers concepts listed below:
+- Implementation of  PCA 
+- Softmax Regression
+- Deep Learning Software Analysis
